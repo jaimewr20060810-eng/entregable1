@@ -1,0 +1,7 @@
+He cambiado los nombres a variables mas sencillas:
+n-> numeros
+a-> numrepetidos
+b-> repetidos
+c-> max
+s-> suma
+r-> media
